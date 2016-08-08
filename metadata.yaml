@@ -1,0 +1,27 @@
+_repo: Red-Saunders--13-His-Adventures-West--amp--East_12196
+_version: 0.0.1
+alternative_title: 'Red Saunders: His Adventures West and East'
+creator:
+  author:
+    agent_name: Phillips, Henry Wallace
+    alias: Phillips, H. W. (Henry Wallace)
+    birthdate: 1869
+    deathdate: 1930
+    gutenberg_agent_id: '4260'
+    url: http://www.gutenberg.org/2009/agents/4260
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+- GITenberg
+title: 'Red Saunders: His Adventures West & East'
+url: http://www.gutenberg.org/ebooks/12196
