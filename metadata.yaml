@@ -1,6 +1,9 @@
 _repo: Red-Saunders--13-His-Adventures-West--amp--East_12196
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: 'Red Saunders: His Adventures West and East'
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Phillips, Henry Wallace
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '4260'
     url: http://www.gutenberg.org/2009/agents/4260
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12196#Red-Saunders--13-His-Adventures-West--amp--East
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
